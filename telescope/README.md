@@ -1,4 +1,4 @@
-Raspberry Pi Telescope Control and Imaging
+# Raspberry Pi Telescope Control and Imaging
 
 Control Telescope from Laptop using Stellarium
 Capture Image from Pi Cam and Stream to Browser on Lap Top
