@@ -17,7 +17,9 @@ Components:
 
 Notes:
 Stream Image - http://blog.miguelgrinberg.com/post/stream-video-from-the-raspberry-pi-camera-to-web-browsers-even-on-ios-and-android
+   - Mjpg-streamer:  http://sourceforge.net/code-snapshots/svn/m/mj/mjpg-streamer/code/mjpg-streamer-code-182.zip
 
 Telescope control - http://www.vhersey.com/2015/07/raspberry-pi-telescope-control/
+   - Telescope Server: https://svn.code.sf.net/p/stellarium/code/trunk/telescope_server
 
 Ad-hoc Raspberry Pi Wifi
