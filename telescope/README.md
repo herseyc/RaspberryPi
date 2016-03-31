@@ -14,8 +14,9 @@ Components:
    -	USB Wifi Adapter 
    -	Nice Case to keep it all tidy - http://www.amazon.com/RaspberryPiCafe%C2%AE-Raspberry-Enclosure-Aluminum-Heatsinks/dp/B00LZ2LU1A/ref=sr_1_85?s=pc&ie=UTF8&qid=1459356269&sr=1-85&keywords=raspberry+pi+case+with+camera  
 
-Ad-hoc Raspberry Pi Wifi
-
+Notes:
 Stream Image - http://blog.miguelgrinberg.com/post/stream-video-from-the-raspberry-pi-camera-to-web-browsers-even-on-ios-and-android
 
 Telescope control - http://www.vhersey.com/2015/07/raspberry-pi-telescope-control/
+
+Ad-hoc Raspberry Pi Wifi
