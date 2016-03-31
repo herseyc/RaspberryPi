@@ -3,10 +3,11 @@ Raspberry Pi Telescope Control and Imaging
 Control Telescope from Laptop using Stellarium
 Capture Image from Pi Cam and Stream to Browser on Lap Top
 Over WIFI from laptop.
+Assemble for < $100 
 
 Components:
    -	Raspberry Pi 
-   -	Pi Cam – Have $19
+   -	Pi Cam 
    -	M12 Adapter for Pi Cam - http://www.m12lenses.com/CNC-Machined-Raspberry-Pi-M12-Lens-Holder-Metal-p/pt-lh020rpm.htm 
    -	M12 to 1 ¼ Telescope eye-piece - https://www.optcorp.com/os-wca-1-25inch-web-camera-nosepiece.html - Ordered $15
    -	USB to Serial Adapter 
