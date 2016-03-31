@@ -7,6 +7,7 @@ Capture Image from Pi Cam and Stream to Browser on Laptop over WIFI .
 Assemble for < $100 
 
 Components:
+
    -	Raspberry Pi 
    -	Pi Cam 
    -	M12 Adapter for Pi Cam - http://www.m12lenses.com/CNC-Machined-Raspberry-Pi-M12-Lens-Holder-Metal-p/pt-lh020rpm.htm 
@@ -16,6 +17,7 @@ Components:
    -	Case to keep it all tidy - http://www.amazon.com/RaspberryPiCafe%C2%AE-Raspberry-Enclosure-Aluminum-Heatsinks/dp/B00LZ2LU1A/ref=sr_1_85?s=pc&ie=UTF8&qid=1459356269&sr=1-85&keywords=raspberry+pi+case+with+camera  
 
 Notes:
+
 Stream Image - http://blog.miguelgrinberg.com/post/stream-video-from-the-raspberry-pi-camera-to-web-browsers-even-on-ios-and-android
    - Mjpg-streamer:  http://sourceforge.net/code-snapshots/svn/m/mj/mjpg-streamer/code/mjpg-streamer-code-182.zip
 
