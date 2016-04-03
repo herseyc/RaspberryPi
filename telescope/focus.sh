@@ -6,12 +6,14 @@
 # Start streamfocus.sh and access stream at http://astropiaddress:8080
 # Slowly adjust focus until object is sharp
 #
+imagefile=/home/pi/telescope/capture/focus.jpg
+shutter=1000000
+iso=800
 
-#Make the directory, it will error and continue if it already exists
-mkdir /tmp/telescope
+echo $imagefile $shutter $iso
 
-#take 1 second exposure
-raspistill -w 800 -h 600 -hf -vf -ss 1000000 -ISO 100 -sh 60 -br 50 -sa -75 -o /tmp/telescope/focus.jpg -tl 10 -t 999999999 -th 0:0:0
+#take exposure
+raspistill -w 800 -h 600 -hf -vf -ss $shutter -ISO $iso -sh 50 -br 50 -sa -15 -o $imagefile -tl 10 -t 999999999 -th 0:0:0
 
 # -w width of image
 # -h height of image
