@@ -5,6 +5,9 @@
 # 
 cd /home/pi/mjpg-streamer-code-182/mjpg-streamer
 
-LD_LIBRARY_PATH=./ ./mjpg_streamer -i "input_file.so -f /tmp/telescope -n focus.jpg" -o "output_http.so -w ./www"
+inputdir=/home/pi/telescope/capture
+inputfile=focus.jpg
+
+LD_LIBRARY_PATH=./ ./mjpg_streamer -i "input_file.so -f $inputdir -n $inputfile" -o "output_http.so -w ./www"
 
 # Connect to http://astropiaddress:8080 to view stream
